@@ -1,0 +1,6 @@
+framework module XCLIBSSH2 {
+  umbrella header "XCLIBSSH2.h"
+
+  export *
+  module * { export * }
+}

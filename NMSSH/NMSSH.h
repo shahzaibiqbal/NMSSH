@@ -3,8 +3,8 @@
 #ifndef _NMSSH_
 #define _NMSSH_
 
-#import "libssh2.h"
-#import "libssh2_sftp.h"
+#import <XCLIBSSH2/libssh2.h>
+#import <XCLIBSSH2/libssh2_sftp.h>
 
 #import "NMSSHSessionDelegate.h"
 #import "NMSSHChannelDelegate.h"
